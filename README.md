@@ -63,5 +63,5 @@ Sinta-se à vontade para contribuir para este projeto. Se você deseja melhorar 
     git push origin nova-funcionalidade
     ```
 5. Crie um pull request para a branch principal.
-````
+##
 Copyright (c) 2025 Paulo Moretti
